@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(135, 207, 207);
+    font-family: Verdana, sans-serif;
+}
+
+article,
+footer {
+    background-color: rgba(206, 156, 81, 0.5);
+}
